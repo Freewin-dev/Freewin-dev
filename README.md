@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Friday Agbo
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Javascript and it's modern frontend frameworks
-- 💞️ I’m looking to collaborate on JavaScript and ReactJS
+- 🌱 I’m currently learning Javascript.
+- 💞️ I’m looking to collaborate on JavaScript and ReactJS.
 - 📫 How to reach me: agbofd@yahoo.com
 - 😄 Pronouns: He/Him
