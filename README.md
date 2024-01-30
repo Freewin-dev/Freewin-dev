@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Friday Agbo
-- 👀 I’m interested in Software Engineering
+- 👀 I’m interested in Software Engineering and Cybersecurity.
 - 🌱 I’m currently learning Javascript.
 - 💞️ I’m looking to collaborate on JavaScript and ReactJS.
 - 📫 How to reach me: agbofd@yahoo.com
